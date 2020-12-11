@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an Assistant Professor at the International School of Advanced Studies
-([SISSA](www.sissa.it)) in beautiful Trieste, Italy, where I am currently
+([SISSA](www.sissa.it)) in beautiful Trieste (Italy), where I am currently
 setting up the Theory of Neural Networks group.
 
 <p>
@@ -24,7 +24,7 @@ My current research interest are theories of learning in artificial and
 biological neural networks. We are motivated by the large gap between the recent
 successes of neural networks in machine learning and our understanding of their
 foundational properties, which is still very limited. We combine a mix of theory
-and numerical experiments to close this gap. My current focus is on
+and numerical experiments to close this gap. Our current focus is on
 understanding how the interplay between data structure, training and
 architecture shapes learning.  </p>
 

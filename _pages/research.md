@@ -5,11 +5,18 @@ excerpt: "Our research"
 author_profile: true
 ---
 
-## The impact of data structure on learning
+Here is an overview over three research directions:
+<ul>
+  <li><a href="#structure">The impact of data structure on learning</a></li>
+  <li><a href="#dynamics">Dynamics of learning</a></li>
+  <li><a href="#efficiency">Energetic efficiency of learning</a></li>
+</ul>
+
+<h2 id="structure">The impact of data structure on learning</h2>
 
 <p>
 <div style="float:right; text-align:center; width:300px">
-<img src="images/data_structure.png" alt="View from the office"
+<img src="images/data_structure.png" alt="The hidden manifold"
     title="The hidden manifold" width="300" height="300" style="
     margin: 5px" /><br/>
 <i style="font-size:90%">Realistic images concentrate on a low-dimensional
@@ -38,25 +45,23 @@ neural networks analytically.  </p>
   (2020) [arXiv:1911.00500](https://arxiv.org/abs/1909.11500)
 
 
-## The dynamics of learning
+<h2 id="dynamics">The dynamics of learning</h2>
 
 <p>
 <div style="float:right; text-align:center; width:300px">
-<img src="images/dynamics.png" alt="View from the office"
-    title="The hidden manifold" width="300" height="300" style="
+<img src="images/dynamics.png" alt="The dynamics of learning"
+    title="The dynamics of learning" width="300" height="300" style="
     margin: 5px" /><br/>
 <i style="font-size:90%">The learning algorithm shapes the path of neural
 networks in the losslandscape. Image courtesy of
 S. d'Ascoli </i>
 </div>
-Lorem ipsum dolor sit amet, consectetur adipiscing
-elit. Morbi id orci nunc. Maecenas ac est ante. Aenean ac tortor vestibulum,
-tempor eros non, porta turpis. Sed eu facilisis orci. Praesent et odio sed urna
-bibendum lobortis. Sed consectetur risus sit amet nisi sodales
-iaculis. Vestibulum quis velit mi. Fusce sodales, lectus vitae porttitor
-tincidunt, ligula mi imperdiet turpis, vel tempus augue tellus a
-lectus. Praesent feugiat ac nisl in vehicula. Nullam suscipit neque et orci
-tempor, a maximus enim facilisis. Duis vel orci neque.</p>
+
+Understanding the dynamics of learning in neural networks is a key step in
+understanding their performance. We are interested in the analysis of standard
+algorithms to train neural networks, i.e. the backpropagation algorithm [1], but
+we are increasingly interested in studying alternatives to backprop, such as
+feedback alignment algorithms [2].  </p>
 
 ### References
 
@@ -69,8 +74,7 @@ tempor, a maximus enim facilisis. Duis vel orci neque.</p>
 
 
 
-## Energetic efficiency of learning
-
+<h2 id="efficiency">Energetic efficiency of learning</h2>
 
 <p>
 <div style="float:right; text-align:center; width:320px">
