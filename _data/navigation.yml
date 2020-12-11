@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about.html
+
+  - title: "Team"
+    url: /team.html
+
+  - title: "Research"
+    url: /research.html
+
+  - title: "<div style='color:red; font-weight:bold'>Join us!</div>"
+    url: /join.html    
+
+  - title: "Teaching"
+    url: /teaching.html
+    
+  - title: "Outreach"
+    url: /outreach.html
+    
