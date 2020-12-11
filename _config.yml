@@ -11,7 +11,7 @@ title                    : # "Theory of neural networks @ SISSA"
 title_separator          : "-"
 name                     : &name "Sebastian Goldt"
 description              : &description "PI"
-url                      : http://localhost:4000 # https://goldtlab.github.io
+url                      : https://goldtlab.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goldtlab/goldtlab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
