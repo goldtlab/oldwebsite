@@ -35,7 +35,7 @@ neural networks analytically.  </p>
 
 ### References
 
-1. SG, G. Reeves, M. Mézard, F. Krzakala, and L. Zdeborová <br/>
+1. SG, B. Loureiro, G. Reeves, M. Mézard, F. Krzakala, and L. Zdeborová <br/>
   _The Gaussian equivalence of generative models for learning with two-layer neural networks_<br/>
   [arXiv:2006.14709](https://arxiv.org/abs/2006.14709)
 2. SG, M. Mézard, F. Krzakala, and L. Zdeborová<br/>
