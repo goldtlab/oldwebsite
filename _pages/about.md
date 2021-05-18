@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the International School of Advanced Studies
-([SISSA](www.sissa.it)) in beautiful Trieste (Italy), where I am currently
-setting up the Theory of Neural Networks group.
+We are a research group at the International School of Advanced Studies
+([SISSA](www.sissa.it)) in beautiful Trieste (Italy), led by Sebastian
+Goldt. <a href="./team.html">Meet the team</a>!
 
 <p>
 <div style="float:right; text-align:center; width:300px">
@@ -20,13 +20,13 @@ setting up the Theory of Neural Networks group.
 <i style="font-size:90%">The view from the office.</i>
 </div>
 
-My current research interest are theories of learning in artificial and
-biological neural networks. We are motivated by the large gap between the recent
-successes of neural networks in machine learning and our understanding of their
-foundational properties, which is still very limited. We combine a mix of theory
-and numerical experiments to close this gap. Our current focus is on
-understanding how the interplay between data structure, training and
-architecture shapes learning.  </p>
+We are working on theories of learning in artificial and biological neural
+networks. We are motivated by the large gap between the recent successes of
+neural networks in machine learning and our understanding of their foundational
+properties, which is still very limited. We combine a mix of theory and
+numerical experiments to close this gap. Our current focus is on understanding
+how the interplay between data structure, training and architecture shapes
+learning.  </p>
 
 Join us! #wearehiring
 ----
