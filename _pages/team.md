@@ -11,12 +11,12 @@ width="180" style="float:right; margin:10px" />
 
 <div style="font-size:130%; font-weight:bold">Sebastian Goldt</div><br/> 
 
-I am Assistant Professor in the nascent Department of Data Science at SISSA. I
-studied physics at Cambridge University and did my PhD with Udo Seifert at the
-University of Stuttgart, where I worked on the stochastic thermodynamics of
-learning. Before coming to Trieste, I spent three years as a post-doc with
-Florent Krzakala and Lenka Zdeborová in Paris studying the theory of neural
-networks.</p>
+Sebastian is an Assistant Professor in the nascent Department of Data Science at
+SISSA. He studied physics at Cambridge University and he did his PhD with Udo
+Seifert at the University of Stuttgart, where he worked on the stochastic
+thermodynamics of learning. Before coming to Trieste, Sebastian spent three
+years as a post-doc with Florent Krzakala and Lenka Zdeborová in Paris studying
+the theory of neural networks.</p>
 
 <p>&nbsp;</p>
 
