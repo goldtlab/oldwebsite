@@ -35,14 +35,20 @@ neural networks analytically.  </p>
 
 ### References
 
-1. SG, B. Loureiro, G. Reeves, M. Mézard, F. Krzakala, and L. Zdeborová <br/>
-  _The Gaussian equivalence of generative models for learning with two-layer neural networks_<br/>
-  [arXiv:2006.14709](https://arxiv.org/abs/2006.14709)
-2. SG, M. Mézard, F. Krzakala, and L. Zdeborová<br/>
-  _Modelling the influence of data structure on learning in neural networks: the
+- _Modelling the influence of data structure on learning in neural networks: the
   hidden manifold model_<br/>
+  SG, M. Mézard, F. Krzakala, and L. Zdeborová<br/>
   [Phys. Rev. X *10*, 041044](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.041044)
   (2020) [arXiv:1911.00500](https://arxiv.org/abs/1909.11500)
+- _The Gaussian equivalence of generative models for learning with two-layer
+  neural networks_<br/>
+  SG, B. Loureiro, G. Reeves, M. Mézard, F. Krzakala, and L. Zdeborová <br/>
+  Mathematical and Scientific Machine Learning (2021)<br/>
+  [arXiv:2006.14709](https://arxiv.org/abs/2006.14709)
+- _Capturing the learning curves of generic features maps for realistic datasets
+  with a teacher-student model_<br/> 
+ B Loureiro, C Gerbelot, H Cui, SG, M Mézard, F Krzakala, L Zdeborová <br/>
+  [arXiv:2102.08127](https://arxiv.org/abs/2102.08127)
 
 
 <h2 id="dynamics">The dynamics of learning</h2>
@@ -65,11 +71,17 @@ feedback alignment algorithms [2].  </p>
 
 ### References
 
-- M. Refinetti, S. d'Ascoli, R. Ohana, SG<br/>
-  _The dynamics of learning with feedback alignment_<br/>
+- _The dynamics of learning with feedback alignment_<br/>
+  M. Refinetti, S. d'Ascoli, R. Ohana, SG<br/>
+  ICML (2021),
   [arXiv:2011.12428](https://arxiv.org/abs/2011.12428)
-- SG, M.S. Advani, A.M. Saxe, F. Krzakala, L. Zdeborová<br/>
-  _Dynamics of stochastic gradient descent for two-layer neural networks in the teacher-student setup_<br/>
+- _Classifying high-dimensional Gaussian mixtures: Where kernel methods fail and neural networks succeed_<br/>
+  M Refinetti, SG, F Krzakala, L Zdeborová<br/>
+  ICML (2021)
+  [arXiv:2102.11742](https://arxiv.org/abs/2102.11742)
+- _Dynamics of stochastic gradient descent for two-layer neural networks in the
+  teacher-student setup_<br/>
+  SG, M.S. Advani, A.M. Saxe, F. Krzakala, L. Zdeborová<br/>
   Advances in Neural Information Processing [(NeurIPS) 6979-6989 (2019)](https://proceedings.neurips.cc/paper/2019/hash/cab070d53bd0d200746fb852a922064a-Abstract.html) [arXiv:1906.08632](https://arxiv.org/abs/1906.08632)
 
 
