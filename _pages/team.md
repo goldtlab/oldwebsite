@@ -9,7 +9,7 @@ author_profile: true
 <p><img src="images/sebastian.jpg" alt="Sebastian Goldt" title="Sebastian Goldt"
 width="180" style="float:right; margin:10px" /> 
 
-<div style="font-size:130%; font-weight:bold">Sebastian Goldt (PI)</div><br/> 
+<div style="font-size:130%; font-weight:bold">Sebastian Goldt</div><br/> 
 
 I am Assistant Professor in the nascent Department of Data Science at SISSA. I
 studied physics at Cambridge University and did my PhD with Udo Seifert at the
@@ -17,6 +17,22 @@ University of Stuttgart, where I worked on the stochastic thermodynamics of
 learning. Before coming to Trieste, I spent three years as a post-doc with
 Florent Krzakala and Lenka Zdeborová in Paris studying the theory of neural
 networks.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="images/sara.jpg" alt="Sara Folchini" title="Sara Folchini"
+width="200" style="float:right; margin:10px" /> 
+
+<div style="font-size:130%; font-weight:bold">Sara Folchini (PhD student)</div><br/>
+
+<p>Sara is a PhD student in the Data Science of SISSA. She graduated in
+Quantitative and Computational Biology carrying out a thesis about the benchmark
+of over-parametrized supervised learning approaches under the supervision of
+Alessandro Laio and worked as a software engineer in eXact lab.</p>
+
+<p>In her spare time, she enjoys climbing, cooking, knitting and reading. When
+allowed, she plays wind instruments in the local orchestra.</p>
+
 
 <p>&nbsp;</p>
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Goldt Lab # "Theory of neural networks @ SISSA"
+title                    : "" # "Theory of neural networks @ SISSA"
 title_separator          : "-"
 name                     : &name "Sebastian Goldt"
 description              : &description "PI"
