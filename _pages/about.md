@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 👋 We are a research group at the International School of Advanced Studies
-([SISSA](www.sissa.it)) in beautiful Trieste (Italy), led by Sebastian Goldt. <a
+([SISSA](http://www.sissa.it)) in beautiful Trieste (Italy), led by Sebastian Goldt. <a
 href="./team.html">Meet the team</a>!
 
 <p>
 <div style="float:right; text-align:center; width:300px">
-<img src="images/trieste.jpg" alt="View from the office"
-    title="View from the office" width="309" height="232" style="
+<img src="images/teaching.jpg" alt="View from the office"
+    title="View from the office" width="320" style="
     margin: 5px" /><br/>
-<i style="font-size:90%">The view from the office.</i>
+<!-- <i style="font-size:90%">The view from the office.</i>-->
 </div>
 
 🔬 We are working on theories of learning in artificial and biological neural
@@ -26,7 +26,7 @@ neural networks in machine learning and our understanding of their foundational
 properties, which is still very limited. We combine a mix of theory and
 numerical experiments to close this gap. Our current focus is on understanding
 how the interplay between data structure, training and architecture shapes
-learning. <a href="./team.html">Check out some recent highlights</a>! </p>
+learning. Take a look at <a href="./research.html">some recent highlights</a>! </p>
 
 📣 Conference alert: Youth in high dimensions 2021
 ----

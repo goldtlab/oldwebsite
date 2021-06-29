@@ -5,15 +5,22 @@ excerpt: "Join us"
 author_profile: true
 ---
 
+<p>
+<div style="float:right; text-align:center; width:300px">
+<img src="images/trieste.jpg" alt="View from the office"
+    title="View from the office" width="320" style="
+    margin: 5px" /><br/>
+<i style="font-size:90%">The view from the office.</i>
+</div>
 The lab is currently growing, and we're recruiting at the post-doc and PhD
 student level. Many of the greatest ideas and discoveries have come from a
 diverse mix of minds, backgrounds and experiences, and so I am committed to
-cultivating an inclusive work environment that is welcoming to everybody.
+cultivating an inclusive work environment that is welcoming to everybody.</p>
 
-Please feel free to reach out informally by mail if you are interested in
-joining and have any questions; I'm looking forward to hearing from you.
+<p>Please feel free to reach out informally by mail if you are interested in
+joining; I'm looking forward to hearing from you.</p>
 
-Post-doc (Sep 2021, deadline: 31.01.2021)
+<!--Post-doc (Sep 2021, deadline: 31.01.2021)
 ---
 
 I’m looking for a post-doc to work on the dynamics of neural networks (two
@@ -23,7 +30,7 @@ learning, please apply! Strong analytical skills and an interest in conducting
 numerical experiments are important.
 
 The full job ad can be found here:
-[https://academicjobsonline.org/ajo/jobs/17696](https://academicjobsonline.org/ajo/jobs/17696)
+[https://academicjobsonline.org/ajo/jobs/17696](https://academicjobsonline.org/ajo/jobs/17696)-->
 
 PhD students
 ---
