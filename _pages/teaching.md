@@ -9,7 +9,7 @@ author_profile: true
 width="360" style="float:right; margin:10px" /> 
 
 I am teaching two courses in the academic year 2020/2021 within the <a
-href="https://www.sissa.it/dipartimento-di-eccellenza">SISSA Data Science
+href="https://datascience.sissa.it/">SISSA Data Science
 PhD</a>
 
 

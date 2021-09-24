@@ -15,11 +15,24 @@ Sebastian is an Assistant Professor in the nascent Department of Data Science at
 SISSA. He studied physics at Cambridge University and he did his PhD with Udo
 Seifert at the University of Stuttgart, where he worked on the stochastic
 thermodynamics of learning. Before coming to Trieste, Sebastian spent three
-years as a post-doc with Florent Krzakala and Lenka Zdeborová in Paris studying
+years as a post-doc with Florent Krzakala and Lenka Zdeborová in Paris, studying
 the theory of neural networks.</p>
 
 <p>He loves playing sports, discovering Trieste and its surroundings, and buying
 more books than he manages to read.</p>
+
+<p>&nbsp;</p>
+
+<p><img src="images/eszter.jpg" alt="Eszter Székely" title="Eszter Székely"
+width="200" style="float:right; margin:10px" /> 
+
+<div style="font-size:130%; font-weight:bold">Eszter Székely (Postdoc)</div><br/>
+
+Eszter is a post-doc working on neural networks and Gaussian processes.  Before
+joining SISSA, she did her PhD in Gábor Csányi's group at Cambridge. During her
+PhD, she developed data-driven models for small molecules using mostly Gaussian
+processes. In her free time, she enjoys reading, hiking, knitting, making
+origami and occassionally, playing the piano.
 
 <p>&nbsp;</p>
 
