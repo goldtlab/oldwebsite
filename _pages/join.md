@@ -12,12 +12,14 @@ author_profile: true
     margin: 5px" /><br/>
 <i style="font-size:90%">The view from the office.</i>
 </div>
-The lab is currently growing, and we're recruiting at the post-doc and PhD
-student level. Many of the greatest ideas and discoveries have come from a
-diverse mix of minds, backgrounds and experiences, and so I am committed to
+
+The lab is currently growing, and we're recruiting at the post-doc, PhD and
+master student level. Many of the greatest ideas and discoveries have come from
+a diverse mix of minds, backgrounds and experiences, and so we are committed to
 cultivating an inclusive work environment that is welcoming to everybody.</p>
 
-<p>Please feel free to reach out informally by mail if you are interested in
+<p>Please feel free to reach out informally <a
+href="mailto:goldt.sebastian@gmail.com">by mail</a> if you are interested in
 joining; I'm looking forward to hearing from you.</p>
 
 <!--Post-doc (Sep 2021, deadline: 31.01.2021)
@@ -36,7 +38,7 @@ PhD students
 ---
 
 I'm looking for one PhD student to work on the theory of neural networks
-starting in September 2021. The student would join the SISSA PhD programme in
+starting in September 2022. The student would join the SISSA PhD programme in
 Data Science. Here are some quick facts:
 
 - You're fully funded for four years
@@ -44,7 +46,6 @@ Data Science. Here are some quick facts:
   first year
 - You then have three years to do your PhD research.
 
-Have a look at this year's edition:
-[https://www.sissa.it/dipartimento-di-eccellenza](https://www.sissa.it/dipartimento-di-eccellenza). 
-
-Admissions occur via a written exam and an interview with the faculty.
+To find out more about the programme, have a look at <a
+href="https://datascience.sissa.it/phd-in-theoretical-and-scientific-data-science">our
+website</a>.

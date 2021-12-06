@@ -68,5 +68,6 @@ chess.</p>
 <h2>We're recruiting!</h2>
 
 
-Want to join us? We have openings at the PhD and post-doc level; <a
-href="./join.html">have a look</a> or <a href="mailto:goldt.sebastian@gmail.com">get in touch</a>!
+Want to join us? We have openings at the master, PhD and post-doc level; <a
+href="./join.html">have a look</a> or <a
+href="mailto:goldt.sebastian@gmail.com">get in touch</a>!
