@@ -50,24 +50,22 @@ Alessandro Laio and worked as a software engineer in eXact lab.</p>
 allowed, she plays wind instruments in the local orchestra.</p>
 
 
-<p>&nbsp;</p>
+<h1>Alumni</h1>
 
 <p><img src="images/dogan.jpeg" alt="Dogan Can Demirbilek" title="Dogan Can Demirbilek"
 width="200" style="float:right; margin:10px" /> 
 
-<div style="font-size:130%; font-weight:bold">Doğan Can Demirbilek (MSc student)</div><br/>
+<div style="font-size:130%; font-weight:bold">Doğan Can Demirbilek (MSc, 2021)</div><br/>
 
-Doğan is a student of the Master in Data Science and Scientific Computing at the
-University of Trieste. For his thesis, he will be working on the dynamics of
+Doğan read for the Master in Data Science and Scientific Computing at the
+University of Trieste. His thesis looked at the dynamics of
 learning through (direct) feedback alignment.</p>
 
 <p>In his spare time, he enjoys watching movies, reading novels and playing
 chess.</p>
 
-
 <h2>We're recruiting!</h2>
 
-
-Want to join us? We have openings at the master, PhD and post-doc level; <a
+Want to join us? We have openings at the master and PhD student level; <a
 href="./join.html">have a look</a> or <a
 href="mailto:goldt.sebastian@gmail.com">get in touch</a>!
