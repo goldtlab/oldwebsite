@@ -13,7 +13,7 @@ author_profile: true
 <i style="font-size:90%">The view from the office.</i>
 </div>
 
-The lab is currently growing, and we're recruiting at the post-doc, PhD and
+The lab is currently growing, and we're recruiting at the PhD and
 master student level. Many of the greatest ideas and discoveries have come from
 a diverse mix of minds, backgrounds and experiences, and so we are committed to
 cultivating an inclusive work environment that is welcoming to everybody.</p>
